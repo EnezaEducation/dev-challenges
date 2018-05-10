@@ -1,4 +1,4 @@
-# I speak PHP, LARAVEL, MySQL
+# You speak PHP, LARAVEL, MySQL
 PHP & Laravel are at the core of the Eneza's system. 
 
 As a back end developer, you'll be working on all aspects of the core system and so a solid understanding of PHP,
