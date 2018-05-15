@@ -7,6 +7,9 @@ Laravel & MySQL is required
 Though this task may seem simplistic, it will help us gauge your understanding of some core aspects of the different 
 technologies we use.
 
+## Expected Completion Time
+3-4 days
+
 ## Description
 We are an Educational System, so off course the challenge will be in relation to that.
 
@@ -98,5 +101,4 @@ The higher you go, the cooler it becomes?
 5. Beginner
 6. Advanced
 
-## Expected Completion
-3-4 days
+
