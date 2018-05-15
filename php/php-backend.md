@@ -97,3 +97,6 @@ The higher you go, the cooler it becomes?
 4. Level 2
 5. Beginner
 6. Advanced
+
+## Expected Completion
+3-4 days
